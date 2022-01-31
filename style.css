@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    max-width: 100%;
+    margin: 100px auto;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.qr{
+    margin: 0 0;
+    border-radius: 10px;
+}
+
+.header{
+    font-weight: 700;
+    font-size: 20px;
+    margin: 10px 0 1px;
+    padding: 20px;
+}
+
+.content{
+    color: hsl(220, 15%, 55%);
+    font-size: 17px;
+    margin:10px 0;
+    margin-top: 1px;
+    margin-bottom: 30px;
+}
